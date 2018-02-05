@@ -1,0 +1,1 @@
+In this work, I have implemented a neuro-fuzzy neural network using Locally Linear Model Tree learning algorithm in order to predict chaotic time-series.
